@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/trade-mark-react/static/css/main.d1b05096.chunk.css",
-    "main.js": "/trade-mark-react/static/js/main.36bafd83.chunk.js",
-    "main.js.map": "/trade-mark-react/static/js/main.36bafd83.chunk.js.map",
+    "main.css": "/trade-mark-react/static/css/main.5a4c32f4.chunk.css",
+    "main.js": "/trade-mark-react/static/js/main.e683394a.chunk.js",
+    "main.js.map": "/trade-mark-react/static/js/main.e683394a.chunk.js.map",
     "runtime-main.js": "/trade-mark-react/static/js/runtime-main.c710c876.js",
     "runtime-main.js.map": "/trade-mark-react/static/js/runtime-main.c710c876.js.map",
-    "static/css/2.2f659996.chunk.css": "/trade-mark-react/static/css/2.2f659996.chunk.css",
-    "static/js/2.10743010.chunk.js": "/trade-mark-react/static/js/2.10743010.chunk.js",
-    "static/js/2.10743010.chunk.js.map": "/trade-mark-react/static/js/2.10743010.chunk.js.map",
+    "static/css/2.69121389.chunk.css": "/trade-mark-react/static/css/2.69121389.chunk.css",
+    "static/js/2.9eafa089.chunk.js": "/trade-mark-react/static/js/2.9eafa089.chunk.js",
+    "static/js/2.9eafa089.chunk.js.map": "/trade-mark-react/static/js/2.9eafa089.chunk.js.map",
     "index.html": "/trade-mark-react/index.html",
-    "precache-manifest.b27df65626eb51e644450141ceaf980b.js": "/trade-mark-react/precache-manifest.b27df65626eb51e644450141ceaf980b.js",
+    "precache-manifest.38f6cd4ee04e52c7f739cdd500c94808.js": "/trade-mark-react/precache-manifest.38f6cd4ee04e52c7f739cdd500c94808.js",
     "service-worker.js": "/trade-mark-react/service-worker.js",
-    "static/css/2.2f659996.chunk.css.map": "/trade-mark-react/static/css/2.2f659996.chunk.css.map",
-    "static/css/main.d1b05096.chunk.css.map": "/trade-mark-react/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.10743010.chunk.js.LICENSE.txt": "/trade-mark-react/static/js/2.10743010.chunk.js.LICENSE.txt"
+    "static/css/2.69121389.chunk.css.map": "/trade-mark-react/static/css/2.69121389.chunk.css.map",
+    "static/css/main.5a4c32f4.chunk.css.map": "/trade-mark-react/static/css/main.5a4c32f4.chunk.css.map",
+    "static/js/2.9eafa089.chunk.js.LICENSE.txt": "/trade-mark-react/static/js/2.9eafa089.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c710c876.js",
-    "static/css/2.2f659996.chunk.css",
-    "static/js/2.10743010.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.36bafd83.chunk.js"
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.9eafa089.chunk.js",
+    "static/css/main.5a4c32f4.chunk.css",
+    "static/js/main.e683394a.chunk.js"
   ]
 }
