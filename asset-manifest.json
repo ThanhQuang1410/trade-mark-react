@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/trade-mark-react/static/css/main.8b91beca.chunk.css",
-    "main.js": "/trade-mark-react/static/js/main.a55047d6.chunk.js",
-    "main.js.map": "/trade-mark-react/static/js/main.a55047d6.chunk.js.map",
+    "main.js": "/trade-mark-react/static/js/main.2ab59bdc.chunk.js",
+    "main.js.map": "/trade-mark-react/static/js/main.2ab59bdc.chunk.js.map",
     "runtime-main.js": "/trade-mark-react/static/js/runtime-main.c710c876.js",
     "runtime-main.js.map": "/trade-mark-react/static/js/runtime-main.c710c876.js.map",
     "static/css/2.69121389.chunk.css": "/trade-mark-react/static/css/2.69121389.chunk.css",
     "static/js/2.9fc6cf33.chunk.js": "/trade-mark-react/static/js/2.9fc6cf33.chunk.js",
     "static/js/2.9fc6cf33.chunk.js.map": "/trade-mark-react/static/js/2.9fc6cf33.chunk.js.map",
     "index.html": "/trade-mark-react/index.html",
-    "precache-manifest.992c8ad9f3ed82584ebe7720615e1cae.js": "/trade-mark-react/precache-manifest.992c8ad9f3ed82584ebe7720615e1cae.js",
+    "precache-manifest.9997c3887123b8d2876bb4cab952fc25.js": "/trade-mark-react/precache-manifest.9997c3887123b8d2876bb4cab952fc25.js",
     "service-worker.js": "/trade-mark-react/service-worker.js",
     "static/css/2.69121389.chunk.css.map": "/trade-mark-react/static/css/2.69121389.chunk.css.map",
     "static/css/main.8b91beca.chunk.css.map": "/trade-mark-react/static/css/main.8b91beca.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.69121389.chunk.css",
     "static/js/2.9fc6cf33.chunk.js",
     "static/css/main.8b91beca.chunk.css",
-    "static/js/main.a55047d6.chunk.js"
+    "static/js/main.2ab59bdc.chunk.js"
   ]
 }
