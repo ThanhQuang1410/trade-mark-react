@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/trade-mark-react/precache-manifest.bbc9b437276b85b6286ab17b333273cd.js"
+  "/trade-mark-react/precache-manifest.992c8ad9f3ed82584ebe7720615e1cae.js"
 );
 
 self.addEventListener('message', (event) => {
