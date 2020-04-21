@@ -1,0 +1,49 @@
+{
+  "homepage": "http://thanhquang1410.github.io/trade-mark-react",
+  "name": "trade-mark",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.9.11",
+    "@material-ui/icons": "^4.9.1",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "bootstrap": "^4.4.1",
+    "downloadjs": "^1.4.7",
+    "html-to-image": "^0.1.1",
+    "react": "^16.13.1",
+    "react-bootstrap": "^1.0.0",
+    "react-cropper-image-editor": "^1.0.10",
+    "react-dom": "^16.13.1",
+    "react-responsive-pinch-zoom-pan": "^0.2.2",
+    "react-scripts": "3.4.1",
+    "styled-components": "^5.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
